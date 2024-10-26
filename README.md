@@ -12,12 +12,13 @@ Welcome to my GitHub profile! I’m a guy with a passion for [Discord Bots, Open
 ![Tools](https://img.shields.io/badge/-Tools-blue?style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🚀 Projects
 Here are a few projects I’ve worked on recently:
 
 - **[Arcoin Bot]**  
-  _a Currency Discord Bot With a Stable Economy Made With Nextcord Using Python._
+  _a Currency Discord Bot With a Stable Economy Made With Nextcord Using Python. (Currently Offline)_
   
 - **[Still Private]**  
   _Coming Soon ..._
