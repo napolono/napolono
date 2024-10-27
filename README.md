@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/napolono?style=social)](https://github.com/napolono)
 
-Welcome to my GitHub profile! I’m a guy with a passion for [Discord Bots, Open-source Intelligence, Data Science, and Creating Impactful Software Solutions in Multiple Fields"]. Here’s a bit about me:
+Welcome to my GitHub profile! I’m a guy with a passion for ["Discord Bots, Open-source Intelligence, Data Science, and Creating Impactful Software Solutions in Multiple Fields"]. Here’s a bit about me:
 
 ## 🔧 Tech Stack
 ![Languages](https://img.shields.io/badge/-Languages-blue?style=for-the-badge)
