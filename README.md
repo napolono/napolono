@@ -9,11 +9,6 @@ Welcome to my GitHub profile! I’m a guy with a passion for Discord Bots, Open-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-![Tools](https://img.shields.io/badge/-Tools-blue?style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 ## 🚀 Projects
 Here are a few projects I’ve worked on recently:
 
