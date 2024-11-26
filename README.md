@@ -30,6 +30,6 @@ I’m currently diving deeper into:
 - Using TOR for useful things
 
 ## 📫 Let's Connect
-Feel free to reach out via [Discord](https://discord.com/user/933768652283592775) or send me an email at [Ma7joub@outlook.com](mailto:Ma7joub@outlook.com).
+Feel free to reach out via [Discord](https://discord.com/user/933768652283592775) or send me an email at [me@napo.lol](mailto:me@napo.lol).
 
 Thanks for stopping by! 😊
